@@ -2,6 +2,10 @@
 
 Authentication functionality for API using Laravel Passport
 
+## Prerequisite
+
+Install and configure [Laravel Passpost](https://laravel.com/docs/9.x/passport)
+
 ## Installation
 
 Install the package via [composer](https://getcomposer.org/):

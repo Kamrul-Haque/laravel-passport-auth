@@ -72,7 +72,7 @@ class AuthController extends Controller
             'client_id' => ['required', 'integer', 'gt:0'],
             'client_secret' => ['required', 'string', 'max:100'],
             'name' => ['required', 'string', 'max:255',],
-            'email' => ['required', 'email', 'max:255', Rule::unique('users')->ignore($this->user)],
+            'email' => ['required', 'email', 'max:255', 'unique:users'],
             'password' => [
                 'required',
                 'confirmed',
