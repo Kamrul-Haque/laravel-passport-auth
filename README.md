@@ -6,7 +6,7 @@ Authentication functionality for API using Laravel Passport
 
 Install the package via [composer](https://getcomposer.org/):
 ```
-composer require kamrul-haque/laravel-stripe-payment
+composer require kamrul-haque/laravel-passport-auth
 ```
 
 Publish package resources:
