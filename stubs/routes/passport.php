@@ -15,3 +15,6 @@ Route::post('send-verification-code', [Api\Auth\AuthController::class, 'sendVeri
      ->name('send-verification-code');
 Route::post('verify-email', [Api\Auth\AuthController::class, 'verifyEmail'])
      ->name('verify-email');
+Route::post('change-password', [Api\Auth\AuthController::class, 'changePassword'])
+     ->middleware('auth:api')
+     ->name('change-password');
