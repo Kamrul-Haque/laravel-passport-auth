@@ -1,5 +1,7 @@
 # laravel-passport-auth
 
+[![Latest Stable Version](http://poser.pugx.org/kamrul-haque/laravel-passport-auth/v)](https://packagist.org/packages/kamrul-haque/laravel-passport-auth) [![Total Downloads](http://poser.pugx.org/kamrul-haque/laravel-passport-auth/downloads)](https://packagist.org/packages/kamrul-haque/laravel-passport-auth) [![Latest Unstable Version](http://poser.pugx.org/kamrul-haque/laravel-passport-auth/v/unstable)](https://packagist.org/packages/kamrul-haque/laravel-passport-auth) [![License](http://poser.pugx.org/kamrul-haque/laravel-passport-auth/license)](https://packagist.org/packages/kamrul-haque/laravel-passport-auth) ![GitHub Repo stars](https://img.shields.io/github/stars/Kamrul-Haque/laravel-passport-auth?color=F4BD16)
+
 Authentication functionality for API using Laravel Passport
 
 ## Prerequisite
